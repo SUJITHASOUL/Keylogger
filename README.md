@@ -8,7 +8,7 @@ This is a simple keylogger application implemented in Python using Tkinter for t
 ```
 ## How to Use
 ## Clone the Repository:
-'git clone https://github.com/your_username/keylogger.git
+'git clone https://github.com/SUJITHASOUL/keylogger.git
 cd keylogger'
 ## Install Dependencies:
 pip install pynput
